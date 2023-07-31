@@ -3,9 +3,9 @@
 <h3>What have you gained from the club?  </h3><br>
 <p> As a member of codechef rmp club offers me enhanced technical skiils , workshop  , many project based leraing togather with  netowrking in many public events with respect to my future prospectus. I have also volunteered in one of the biggest hackathon in Tamil Nadu.</p> 
 <h3>What are the contribution to the Club so far ?</h3 <br>
-<p>My contribution to the club so far is remarkable. I have actively participated in many events and wrokshop. I also voulntered in workshops and hands on session organised by the club. Also I am actively completed the task that has been provided so far.</p> 
+<p>My contribution to the club so far is remarkable. I have actively participated in many events and wrokshop. I also volunteered in workshops and hands on session organised by the club. Also I am actively completed the task that has been provided so far.</p> 
 <h3>Compare your Development Skills when you joined vs Now</h3>
-<p>Before joining the club I was quite slow in learning and don't know how to proceed towards my technical learing . I don't have any exposure the people working in industry and how everything work and run . But after I joined the club the way of learning is changed and got the oppertunuity to connect so many working people around the industry .Also I was very shy to the people before joing the club but after joining the club I able to speak in public. Also got the oppertunity to meet like minded people and best senior of the college.</p>
+<p>Before joining the club I was quite slow in learning and don't know how to proceed towards my technical learning . I don't have any exposure the people working in industry and how everything work and run . But after I joined the club the way of learning is changed and got the oppertunuity to connect so many working people around the industry .Also I was very shy to the people before joing the club but after joining the club I able to speak in public. Also got the oppertunity to meet like minded people and best senior of the college.</p>
 <h3>Describe Your current skill set , projects , and achievements</h3> 
 
 - HTML , CSS , JavaScript , CPP , C , Python , React<br>
